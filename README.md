@@ -1,2 +1,2 @@
 # calculator
-![alt text](https://github.com/omnia-khattab/tictactoe/blob/main/calculator.PNG?raw=true)
+![alt text](https://github.com/omnia-khattab/calculator/blob/main/calculator.PNG?raw=true)
